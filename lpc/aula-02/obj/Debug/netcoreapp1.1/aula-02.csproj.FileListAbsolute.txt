@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ulbra\ulbra-2019-2\lpc\aula-02\bin\Debug\netcoreapp1.1\aula-02.deps.json
+C:\xampp\htdocs\ulbra\ulbra-2019-2\lpc\aula-02\bin\Debug\netcoreapp1.1\aula-02.runtimeconfig.json
+C:\xampp\htdocs\ulbra\ulbra-2019-2\lpc\aula-02\bin\Debug\netcoreapp1.1\aula-02.runtimeconfig.dev.json
+C:\xampp\htdocs\ulbra\ulbra-2019-2\lpc\aula-02\bin\Debug\netcoreapp1.1\aula-02.dll
+C:\xampp\htdocs\ulbra\ulbra-2019-2\lpc\aula-02\bin\Debug\netcoreapp1.1\aula-02.pdb
+C:\xampp\htdocs\ulbra\ulbra-2019-2\lpc\aula-02\obj\Debug\netcoreapp1.1\aula-02.AssemblyInfo.cs
+C:\xampp\htdocs\ulbra\ulbra-2019-2\lpc\aula-02\obj\Debug\netcoreapp1.1\aula-02.dll
+C:\xampp\htdocs\ulbra\ulbra-2019-2\lpc\aula-02\obj\Debug\netcoreapp1.1\aula-02.pdb
