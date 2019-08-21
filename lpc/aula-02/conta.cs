@@ -21,23 +21,22 @@ namespace aula_02
         {
             saldo += valor;
         }
-
         public void Sacar(double valor)
         {
             saldo -= valor;
         }
-
-        public void Consulta()
+        public void Transferencia(Conta destinatario, double valor)
         {
-            Console.WriteLine($"Saldo do Joao é {saldo}");
+            this.Sacar(valor);
+            destinatario.Depositar(valor);
         }
-
-        public void Saque(double valor)
+        public void AumentaLimite(double limite)
         {
-            this.saldo += valor;
+            this.limite += limite;
         }
-
-        
-
+        public void DiminuiLimite(double limite)
+        {
+            this.limite -= limite;
+        }
     }
 }
